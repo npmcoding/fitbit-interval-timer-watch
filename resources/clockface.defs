@@ -1,0 +1,14 @@
+<svg>
+    <defs>
+        <symbol id="clockface">
+            <svg id="clockface-container" display="inline">
+                <rect id="clock-container">
+                    <text id="clock" />
+                </rect>
+                <rect id="set-timer-button" pointer-events="visible">
+                    <text id="set-timer-button-text" />
+                </rect>
+            </svg>
+        </symbol>
+    </defs>
+</svg>

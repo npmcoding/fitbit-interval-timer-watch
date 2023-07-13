@@ -1,0 +1,45 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+
+.background {
+  width: 100%;
+  height: 100%;
+  fill: pink;
+}
+
+#clock-container {
+  x: "0";
+  y: "0";
+  width: "100%";
+  height: 252;
+}
+
+#clock {
+  font-size: "100";
+  text-anchor: middle;
+  x: "50%";
+  y: "50%";
+  text-length: "1000";
+  fill: "#000000";
+}
+
+#set-timer-button-text {
+  fill: #000000;
+  x: "0";
+  y: 252;
+  width: "100%";
+  height: 84;
+}
+
+#set-timer-button-text {
+  font-size: "45";
+  text-buffer: "SET TIMER";
+  fill: #ffffff;
+  text-anchor: middle;
+  x: "50%";
+  y: 320;
+}
